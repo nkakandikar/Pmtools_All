@@ -1,0 +1,20 @@
+{
+  "name": "pm-bots",
+  "version": "2.2.0",
+  "description": "Four product roles as agent personas and skills: Product Manager, Product Marketer, Product Designer and Product Engineer, plus a collaboration skill for how they split and hand over work.",
+  "author": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm",
+    "url": "https://www.productcompass.pm"
+  },
+  "keywords": [
+    "product-management",
+    "product-marketing",
+    "product-design",
+    "product-engineering",
+    "agents",
+    "collaboration"
+  ],
+  "homepage": "https://www.productcompass.pm",
+  "license": "MIT"
+}

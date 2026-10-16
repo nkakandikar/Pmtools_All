@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Added Cursor plugin manifests: a root `.cursor-plugin/marketplace.json` and a `.cursor-plugin/plugin.json` in every plugin, mirroring the Claude manifests. Claude manifests are unchanged apart from listing the new plugin.
+- Added the **pm-bots** plugin: Product Manager, Product Marketer, Product Designer and Product Engineer role skills and agent personas, plus a **product-team-collaboration** skill for how the four roles split and hand over work.
+
 ## v2.2.0 — 2026-10-10
 
 ### pm-execution
