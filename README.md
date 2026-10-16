@@ -442,9 +442,10 @@ Commands:
 
 For PMs and founders accountable for AI-built code. AI agents write code fast but leave no record of *intent* — what the system should do, who may do what, where the secrets live, which rules are actually verified. This kit restores reviewability: it documents the system, then audits the gap between what the docs say and what the code actually does — the class of bug generic scanners miss.
 
-**Skills (2):**
+**Skills (3):**
 
 - `shipping-artifacts` — The durable documentation set that makes an AI-built app reviewable: a core every app needs (architecture, user/permission flows, permissions, variables/secrets, test-coverage map) plus conditional docs added only when they apply (emails, cron, SEO, embedded agents/automation). Defines what each doc must capture and how a reviewer uses it
+- `code-review` — The top-level review skill. Correctness is its core; performance and security are optional sub-cases of the same engine. Anchors on agreements between participants across a boundary, forces a violating execution, and refutes every candidate before reporting
 - `intended-vs-implemented` — The method for finding the gap between what a system is documented to do and what the code actually does, with cited evidence on both sides
 
 **Commands (5):**
